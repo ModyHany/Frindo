@@ -1,0 +1,2 @@
+# Frindo
+my bot
