@@ -1,6 +1,0 @@
-token= NTM4ODAxNDA0MDg5OTkxMTcw.D3S1EQ.S13gmVvEe4oN6qkLC0dM0jPK79E
-owner= 305092972813484033 
-prefix= !
-game= My Owner Is Frindo#9955
-stayinchannel=true 
-songinstatus=false
