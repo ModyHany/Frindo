@@ -1,5 +1,5 @@
 token= NTM4ODAxNDA0MDg5OTkxMTcw.D3S1EQ.S13gmVvEe4oN6qkLC0dM0jPK79E
-owner= MzA1MDkyOTcyODEzNDg0MDMz.DzeeUg.WIt9JnN3dkQHU7_Glh-mQuzM_9E 
+owner= 305092972813484033 
 prefix= !
 game= My Owner Is Frindo#9955
 stayinchannel=true 
