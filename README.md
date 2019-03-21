@@ -1,2 +1,1 @@
-# Frindo
-my bot
+# Jmusic
